@@ -4,13 +4,14 @@ module.exports = {
   ownerId: '1004206704994566164',
   status: {
     rotateDefault: [
-      { name: 'Netflix', type: ActivityType.Watching },
+      { name: 'Eyaculando los mejores mix!', type: ActivityType.Watching },
       { name: 'GTA VI', type: ActivityType.Playing },
-      { name: 'on YouTube', type: ActivityType.Streaming, url: 'https://www.twitch.tv/glaceytt' },
-      { name: 'Spotify', type: ActivityType.Listening },
+      { name: 'Viendo el mejor stream ezquizofrénico', type: ActivityType.Streaming, url: 'https://www.twitch.tv/shilaxem' },
+      { name: 'Anal izando a pollito en Spotify', type: ActivityType.Listening },
     ],
     songStatus: true
   },
-  spotifyClientId: "f71a3da30e254962965ca2a89d6f74b9",
-  spotifyClientSecret: "199a619d22dd4e55a4a2c1a7a3d70e63",
+  spotifyClientId: "6fd6875f0d054d019098440fc7b0fcad",
+  spotifyClientSecret: "5ed110e2521241ffb30c17bdcf217344",
 }
+
